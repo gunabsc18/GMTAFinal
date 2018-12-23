@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "104019489448",
+    "firebase_url": "https://gmta-57854.firebaseio.com",
+    "project_id": "gmta-57854",
+    "storage_bucket": "gmta-57854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104019489448:android:8a3663eee69aab83",
+        "android_client_info": {
+          "package_name": "com.lives.gamermama.gmta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104019489448-39dk98hd7rupm6csfnb4vdqe97nnt97a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nODcnfENmVLM3Z-VE4nxLKoF2crJpzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

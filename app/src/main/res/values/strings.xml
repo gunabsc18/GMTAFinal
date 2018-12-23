@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GMTA</string>
+    <string name="imgCD">mama</string>
+    <string name="dDevs">Perfect Chico, Guna Sekaran</string>
+    <string name="userName">Username</string>
+    <string name="passcode">Password</string>
+    <string name="login">Login</string>
+    <string name="noAc">Don\'t have an Account?</string>
+    <string name="signup">signup</string>
+    <string name="email">Email</string>
+    <string name="haveAc">Already have an Account?</string>
+    <string name="title_activity_live_streaming">LiveStreamingActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
